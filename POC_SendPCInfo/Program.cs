@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 using uPLibrary.Networking.M2Mqtt;
 using System.Diagnostics;
 
+
+
 namespace POC_SendPCInfo
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+
             PerformanceCounter cpuCounter = new PerformanceCounter();
             PerformanceCounter ramCounter = new PerformanceCounter("Memory", "Available MBytes");
 
@@ -24,8 +28,8 @@ namespace POC_SendPCInfo
             {
                 string sCpuusage = cpuCounter.NextValue() + "%";
                 string sRamUsRamUsage = ramCounter.NextValue() + "Mb";
-                smo.MqttSend("ou/CPUUSAGE", sCpuusage);
-                smo.MqttSend("ou/RAMUSAGE", sRamUsRamUsage);
+                smo.MqttSend("SMO/CPUUSAGE", sCpuusage);
+                smo.MqttSend("SMO/RAMUSAGE", sRamUsRamUsage);
                 System.Threading.Thread.Sleep(5000);
             }
         }
@@ -37,7 +41,8 @@ namespace POC_SendPCInfo
             try
             {
                 // create client instance 
-                MqttClient client = new MqttClient("test.mosquitto.org");
+//                MqttClient client = new MqttClient("test.mosquitto.org");
+                MqttClient client = new MqttClient("57.200.217.181", 8080, false, MqttSslProtocols.TLSv1_2, null, null);
                 client.Connect("Test VS", null, null);
 
                 //           string strValue = Convert.ToString(value);

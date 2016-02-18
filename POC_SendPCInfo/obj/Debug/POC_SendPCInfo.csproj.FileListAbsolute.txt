@@ -6,3 +6,10 @@ C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\M2
 C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\M2Mqtt.Net.pdb
 C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.exe
 C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.pdb
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.exe.config
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.exe
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.pdb
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.csprojResolveAssemblyReference.cache
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.exe
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.pdb
+C:\Users\smouilleron\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\M2Mqtt.Net.pdb
