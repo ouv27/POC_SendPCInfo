@@ -43,7 +43,7 @@ namespace POC_SendPCInfo
                 //           string strValue = Convert.ToString(value);
 
                 // publish a message on "/home/temperature" topic with QoS 2 
-                client.Publish("sTopics", Encoding.UTF8.GetBytes(sValue));
+                client.Publish(sTopics, Encoding.UTF8.GetBytes(sValue));
             }
             catch (Exception e)
             {

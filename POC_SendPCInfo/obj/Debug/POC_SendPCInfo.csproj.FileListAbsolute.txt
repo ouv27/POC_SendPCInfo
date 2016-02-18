@@ -1,0 +1,8 @@
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.exe.config
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.csprojResolveAssemblyReference.cache
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.exe
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\POC_SendPCInfo.pdb
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.exe
+C:\Users\IoT Manager\Documents\GitHub\POC_SendPCInfo\POC_SendPCInfo\obj\Debug\POC_SendPCInfo.pdb

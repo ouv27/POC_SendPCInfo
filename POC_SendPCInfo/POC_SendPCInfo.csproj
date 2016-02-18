@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="M2Mqtt.Net">
-      <HintPath>..\..\..\..\GitHub\Processing\m2mqtt-master\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.dll</HintPath>
+      <HintPath>..\..\m2mqtt\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
